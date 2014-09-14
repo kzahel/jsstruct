@@ -1,0 +1,6 @@
+CURRENTLY only supporting unpack, no pack functions
+
+license: MIT
+
+based on: https://github.com/tjfontaine/node-struct
+
